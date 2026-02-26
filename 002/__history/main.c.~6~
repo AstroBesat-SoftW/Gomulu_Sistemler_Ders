@@ -1,0 +1,24 @@
+#include <main.h>
+ #fuses XT, NOWDT, NOPROTECT, NOBROWNOUT, NOLVP, NOPUT, NOWRT, NODEBUG
+
+ #use delay(clock=4M)
+
+ void main()
+ {
+ set_tris_b(0x00);
+ set_tris_d(0x03);
+int x=1;
+int k;
+output_b(0);
+while(TRUE) { if(input(pin_d0)==1){
+ for(k=0;k<8;k++){
+ output_b(x);
+ delay_ms(200);
+ x=x*2;
+ }
+ k=0;
+ x=1;
+ output_b(x);
+ delay_ms(500);
+ }
+ }
