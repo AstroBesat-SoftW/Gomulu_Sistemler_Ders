@@ -1,0 +1,45 @@
+#include <main.h>
+
+// Denetleyici Konfigürasyonu
+#fuses XT, NOWDT, NOPROTECT, NOBROWNOUT, NOLVP, NOPUT, NOWRT, NODEBUG
+#use delay(clock=4M)
+
+// LCD Ayarlarý
+// #define use_portb_lcd TRUE // Port D kullandýðýmýz için bu ifadeye gerek yok
+#include <lcd.c>
+
+// Global Deðiþkenler
+char z;
+int i = 5;
+
+void main() 
+{
+    // LCD Baþlatma ve Ýlk Temizlik
+    lcd_init();
+    printf(lcd_putc, "\f"); // Ekraný temizle
+    
+    // Ýlk Mesajlar
+    printf(lcd_putc, "DENEME");
+    printf(lcd_putc, "\nTEST");
+    delay_ms(1000);
+    
+    // Deðiþken Yazdýrma (i)
+    printf(lcd_putc, "\f");
+    printf(lcd_putc, "i=%d", i);
+    delay_ms(1000);
+    
+    // Karakter Okuma ve Konumlandýrma
+    printf(lcd_putc, "\f");
+    lcd_gotoxy(3, 1);
+    printf(lcd_putc, "Hosgeldiniz");
+    
+    z = lcd_getc(6, 1); // 6. sütun 1. satýrdaki karakteri al ('g' karakterine denk gelir)
+    
+    delay_ms(1000);
+    
+    // Okunan Karakteri Yazdýrma
+    printf(lcd_putc, "\f");
+    printf(lcd_putc, "z=%c", z);
+    
+    while(TRUE); // Programýn bitip baþa dönmemesi için sonsuz döngü (opsiyonel)
+}
