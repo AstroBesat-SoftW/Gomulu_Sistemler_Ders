@@ -9,3 +9,8 @@ Hafta 4 Örnekleri
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/83e0fa59-9aab-45ac-9463-e9e108949eaf" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1e2777ea-27f2-4f5b-8e52-e56ec320c109" />
+
+
+ÖDEV:
