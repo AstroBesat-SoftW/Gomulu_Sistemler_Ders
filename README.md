@@ -15,6 +15,9 @@ Klasör - 003-004-005_kesme
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1e2777ea-27f2-4f5b-8e52-e56ec320c109" />
 
+7.hafta
+Klasör - 008
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8cead86-ba4b-4b19-9c3e-ed354ba6b949" />
 
 ---
 
