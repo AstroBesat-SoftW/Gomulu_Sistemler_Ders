@@ -1,5 +1,7 @@
 # Gomulu_Sistemler_Ders
 
+Programlar:
+Proteus 8 and ccs c compiler
 Hafta  Örnekleri 3
 Klasör - 002
 
