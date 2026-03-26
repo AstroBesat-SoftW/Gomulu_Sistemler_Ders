@@ -21,6 +21,7 @@ Klasör - 003-004-005_kesme
 Klasör - 008
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8cead86-ba4b-4b19-9c3e-ed354ba6b949" />
 
+sınfada 7.hafta pdf yok - vize
 ---
 
 ÖDEV:
