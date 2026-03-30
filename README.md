@@ -21,8 +21,8 @@ Klasör - 003-004-005_kesme
 Klasör - 008
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8cead86-ba4b-4b19-9c3e-ed354ba6b949" />
 
-sınavda 7.hafta pdf yok - vize
-sanırm 7.hafta da PWM kısmına kadar yok yoksa 7.hafta dahil
+ - vize
+sanırm 7.hafta da PWM kısmına kadar var yani 7.hafta dahil ama PWD kısmı yok
 ---
 
 ÖDEV:
