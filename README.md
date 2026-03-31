@@ -25,4 +25,3 @@ Klasör - 008
 sanırm 7.hafta da PWM kısmına kadar var yani 7.hafta dahil ama PWD kısmı yok ya da direk 7 yok tam emin değilim
 ---
 
-ÖDEV:
