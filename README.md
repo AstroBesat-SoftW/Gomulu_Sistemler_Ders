@@ -25,3 +25,9 @@ Klasör - 008
 sanırm 7.hafta da PWM kısmına kadar var yani 7.hafta dahil ama PWD kısmı yok ya da direk 7 yok tam emin değilim
 ---
 
+vize sonrası ilk hafta:
+
+009 ders
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cf68e04e-76c2-4be9-865e-393d87d29aac" />
+
+
