@@ -34,7 +34,6 @@ vize sonrası ilk hafta:
 
 Kart - STM32F407G-DISC1
 <img width="411" height="460" alt="image" src="https://github.com/user-attachments/assets/37a8e378-d8d9-477d-a3c2-b706d8bb57fc" />
-<img width="447" height="368" alt="image" src="https://github.com/user-attachments/assets/3e900d34-44a9-4557-ad2e-e435ab872447" />
-
+<img width="921" height="680" alt="image" src="https://github.com/user-attachments/assets/ca85a551-8c26-465c-8270-d64dfdc232fd" />
 
 
