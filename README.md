@@ -30,4 +30,11 @@ vize sonrası ilk hafta:
 009 ders
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cf68e04e-76c2-4be9-865e-393d87d29aac" />
 
+30.04.2026 Ders
+
+Kart - STM32F407G-DISC1
+<img width="411" height="460" alt="image" src="https://github.com/user-attachments/assets/37a8e378-d8d9-477d-a3c2-b706d8bb57fc" />
+<img width="447" height="368" alt="image" src="https://github.com/user-attachments/assets/3e900d34-44a9-4557-ad2e-e435ab872447" />
+
+
 
