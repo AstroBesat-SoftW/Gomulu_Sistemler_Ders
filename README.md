@@ -37,5 +37,8 @@ Kart - STM32F407G-DISC1
 
 <img width="921" height="680" alt="image" src="https://github.com/user-attachments/assets/ca85a551-8c26-465c-8270-d64dfdc232fd" />
 
-En son haafta 7 işlendi ve kesmelere girdik ve led üzerinden örnek yaptık. butona bastığında çalışan
+
+-----
+
+En son hafta 9 işlendi ve kesmelere girdik ve led üzerinden örnek yaptık. butona bastığında çalışan
 
